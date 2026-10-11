@@ -39,3 +39,22 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local review/design artifacts (not shipped)
+/demo-smoke.png
+/image/
+/theme1.jpeg
+/ui.png
+/PROJECT_REPORT.md
+/calotrack-spec.md
+/components/ActivityRings.tsx
+/components/AddFood.tsx
+/components/Dashboard.tsx
+/components/EatingAdvice.tsx
+/components/HealthStats.tsx
+/components/History.tsx
+/components/Nav.tsx
+/components/Suggestions.tsx
+/components/Toast.tsx
+/components/WaterTracker.tsx
+/components/Workout.tsx
